@@ -29,4 +29,3 @@ https://rsbuddy.com/osbuddy/download?iaccept=true&fileFormat=deb
 # Arch Linux
 
 https://aur.archlinux.org/packages/osbuddy/
-
