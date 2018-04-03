@@ -64,8 +64,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -77,8 +77,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -93,8 +93,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -107,8 +107,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -121,8 +121,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -135,8 +135,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -148,8 +148,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -161,8 +161,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -175,8 +175,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -189,8 +189,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -202,8 +202,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -216,8 +216,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -230,8 +230,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -244,8 +244,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -258,8 +258,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -272,8 +272,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -286,8 +286,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -299,8 +299,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -313,8 +313,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -327,8 +327,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -341,8 +341,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -356,8 +356,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -370,8 +370,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -384,8 +384,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -398,8 +398,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -413,8 +413,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -427,8 +427,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -441,8 +441,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -454,8 +454,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -468,8 +468,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -482,8 +482,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -497,8 +497,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -511,8 +511,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -525,16 +525,16 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
                 Accessory Analytics
               </td>
-              <td></td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -546,8 +546,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -560,8 +560,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -574,8 +574,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -588,8 +588,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -602,8 +602,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -617,8 +617,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -631,8 +631,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -645,8 +645,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -659,8 +659,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -672,8 +672,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -686,8 +686,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -699,8 +699,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -713,8 +713,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -727,8 +727,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -741,8 +741,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -754,8 +754,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -767,8 +767,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -781,8 +781,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -795,8 +795,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -809,8 +809,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -823,8 +823,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -837,8 +837,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -850,8 +850,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -863,8 +863,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -878,7 +878,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -892,7 +892,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -906,7 +906,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -919,7 +919,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -932,7 +932,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -946,7 +946,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -960,7 +960,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -975,7 +975,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -989,7 +989,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1003,7 +1003,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1017,7 +1017,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1031,7 +1031,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1045,7 +1045,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1059,7 +1059,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1072,8 +1072,8 @@ https://aur.archlinux.org/packages/osbuddy/
                   </li>
                 </ul>
               </td>
-              <td></td>
-              <td></td>
+              <td>X</td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1087,7 +1087,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1101,7 +1101,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1115,7 +1115,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1128,7 +1128,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1142,7 +1142,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1157,7 +1157,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1171,7 +1171,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1185,7 +1185,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1198,7 +1198,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1212,7 +1212,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1225,7 +1225,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1239,7 +1239,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1252,7 +1252,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1265,7 +1265,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1279,7 +1279,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1293,7 +1293,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1306,7 +1306,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1320,7 +1320,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1334,7 +1334,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1348,7 +1348,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
             <tr>
               <td>
@@ -1362,7 +1362,7 @@ https://aur.archlinux.org/packages/osbuddy/
                 </ul>
               </td>
               <td></td>
-              <td></td>
+              <td>X</td>
             </tr>
           </tbody>
         </table>
